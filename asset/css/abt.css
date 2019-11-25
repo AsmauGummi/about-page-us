@@ -1,0 +1,10 @@
+body{
+    margin-left: 50px;
+    margin-top: 20px;
+    width: fit-content;
+}
+.img{
+    border-image: 5px;
+    height: 200px;
+    width: 200px;
+}
