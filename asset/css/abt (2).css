@@ -1,0 +1,66 @@
+body{
+    /* background-image: url(../image/bridge.jpg); */
+    background-attachment: fixed;
+    background-size: cover;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: white;
+    
+
+}
+.navbar{
+    background-color: red;
+}
+    
+.header {
+    padding: 80px;
+    text-align: center;
+    background: hsla(204, 100%, 45%, 0.548);
+    color: white;
+    width: 100%;
+    margin-right: 50px;
+    
+  }
+  .side{
+      color: black;
+      
+  }
+  .image{
+      height: 200px;
+      padding: 40px;
+      border-radius: 50%;
+      padding-left:  60px;
+      
+  }
+  .team{
+    text-align: center;
+  }
+ .card{
+     color: blue;
+     width: 600px;
+     text-align: center;
+     margin-bottom: 100px;
+     margin-top: 50px;
+    }
+    .main{
+        color: black;
+        text-align: left;
+    }
+    .child{
+        height: 200px;
+        padding: 30px;
+    }
+    .y{
+        text-align: justify;
+    }
+    .image2{
+        padding: 30px;
+        margin-left: 100px;
+    }
+    .teach{
+        height: 200px;
+        margin-top: 60px;
+    }
+    .com{
+        margin-top: 30px;
+    }
