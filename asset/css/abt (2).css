@@ -47,20 +47,21 @@ body{
         text-align: left;
     }
     .child{
-        height: 200px;
-        padding: 30px;
+        height: 150px;
+        padding: 40px;
+        margin-top: 30px;
     }
     .y{
         text-align: justify;
     }
     .image2{
         padding: 30px;
-        margin-left: 100px;
+        margin-left: 150px;
     }
     .teach{
-        height: 200px;
-        margin-top: 60px;
+        height: 100px;
+        margin-top: 100px;
     }
     .com{
-        margin-top: 30px;
+        margin-top: 60px;
     }
